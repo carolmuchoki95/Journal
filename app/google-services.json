@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "882422973339",
+    "firebase_url": "https://journal-3ddcc.firebaseio.com",
+    "project_id": "journal-3ddcc",
+    "storage_bucket": "journal-3ddcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882422973339:android:558cdb1f7d973586",
+        "android_client_info": {
+          "package_name": "com.muchoki.carol.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882422973339-9bojngn6lvof4ls15v1koldbc9j69job.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQK6Kr-mFmjzxaAtYgwAIamNndwVw4Dfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
